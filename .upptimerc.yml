@@ -30,8 +30,6 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This status page shows **real-time** statistics from a few websites I self-host. The status page itself is hosted using GitHub Actions and Pages, using a modified version of [upptime/upptime](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
