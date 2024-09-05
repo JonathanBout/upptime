@@ -14,7 +14,7 @@ status-website:
   cname: status.jonathanbout.dev
   # baseUrl: /your-repo-name
   logoUrl: https://jonathanbout.dev/icon-dark.png
-  name: Upptime
+  name: Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This status page shows **real-time** statistics from a few websites I self-host. The status page itself is hosted using GitHub Actions and Pages, using a modified version of [upptime/upptime](https://github.com/upptime/upptime)
   navbar:
