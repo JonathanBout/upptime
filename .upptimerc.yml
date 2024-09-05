@@ -5,8 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: Portfolio
     url: https://jonathanbout.com
+    maxResponseTime: 3000
   - name: Astronomy Picture Of the Day
     url: https://apod.jonathanbout.com
+    maxResponseTime: 3000
+  - name: Server01 Status
+    url: server01.jonathanbout.dev
+    maxResponseTime: 3000
+
+delay: 2000 # wait two seconds between each request to prevent overloading the server
+
+assignees:
+  - JonathanBout
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
