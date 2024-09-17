@@ -4,10 +4,10 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Portfolio (.com)
-    url: https://jonathanbout.com
+    url: https://jonathanbout.com?changeLocale=true
     maxResponseTime: 3000
   - name: Portfolio (.nl)
-    url: https://jonathanbout.nl
+    url: https://jonathanbout.nl?changeLocale=true
     maxResponseTime: 3000
   - name: Astronomy Picture Of the Day
     url: https://apod.jonathanbout.com
