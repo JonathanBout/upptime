@@ -4,36 +4,40 @@
     "url": "https://jonathanbout.com?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 575,
-    "timeWeek": 460,
-    "timeMonth": 489,
-    "timeYear": 489,
-    "dailyMinutesDown": {}
+    "time": 486,
+    "timeDay": 500,
+    "timeWeek": 455,
+    "timeMonth": 486,
+    "timeYear": 486,
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Portfolio (.nl)",
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 507,
-    "timeWeek": 443,
-    "timeMonth": 461,
-    "timeYear": 461,
-    "dailyMinutesDown": {}
+    "time": 456,
+    "timeDay": 424,
+    "timeWeek": 430,
+    "timeMonth": 456,
+    "timeYear": 456,
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Astronomy Picture Of the Day",
