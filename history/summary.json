@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
     "status": "up",
-    "uptime": "4.13%",
-    "uptimeDay": "4.13%",
-    "uptimeWeek": "4.13%",
-    "uptimeMonth": "4.13%",
-    "uptimeYear": "4.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2024-10-16": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Astronomy Picture Of the Day",
