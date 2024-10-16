@@ -9,11 +9,16 @@ sites:
   - name: Portfolio (.nl)
     url: https://jonathanbout.nl?changeLocale=true
     maxResponseTime: 3000
+  - name: Portfolio Backend
+    url: https://jonathanbout.com/api/
+    maxResponseTime: 3000
+    expectedStatusCode:
+    - 404
   - name: Astronomy Picture Of the Day
     url: https://apod.jonathanbout.com
     maxResponseTime: 3000
   - name: Server01 Status
-    url: server01.jonathanbout.dev
+    url: https://server01.jonathanbout.dev
     maxResponseTime: 3000
 
 delay: 2000 # wait two seconds between each request to prevent overloading the server
