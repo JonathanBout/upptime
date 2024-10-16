@@ -12,7 +12,7 @@ sites:
   - name: Portfolio Backend
     url: https://jonathanbout.com/api/
     maxResponseTime: 3000
-    expectedStatusCode:
+    expectedStatusCodes:
     - 404
   - name: Astronomy Picture Of the Day
     url: https://apod.jonathanbout.com
