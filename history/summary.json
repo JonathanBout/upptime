@@ -80,18 +80,20 @@
     "url": "https://server01.jonathanbout.dev",
     "icon": "https://icons.duckduckgo.com/ip3/server01.jonathanbout.dev.ico",
     "slug": "server01-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 496,
-    "timeWeek": 480,
+    "time": 506,
+    "timeDay": 478,
+    "timeWeek": 478,
     "timeMonth": 477,
-    "timeYear": 507,
-    "dailyMinutesDown": {}
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "Server02 Status",
