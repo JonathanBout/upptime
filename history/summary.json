@@ -4,18 +4,19 @@
     "url": "https://jonathanbout.com?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-com",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 450,
-    "timeDay": 345,
-    "timeWeek": 385,
-    "timeMonth": 420,
+    "timeDay": 391,
+    "timeWeek": 392,
+    "timeMonth": 421,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2024-11-04": 2,
       "2024-10-10": 17
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 426,
-    "timeDay": 359,
-    "timeWeek": 372,
+    "timeDay": 381,
+    "timeWeek": 376,
     "timeMonth": 400,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2024-11-04": 2,
       "2024-10-10": 17
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://jonathanbout.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +57,9 @@
     "timeWeek": 109,
     "timeMonth": 166,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   },
   {
     "name": "Astronomy Picture Of the Day",
