@@ -1,7 +1,7 @@
 :root {
-  --body-background-color: #1f1f1f;
-  --body-text-color: #faedff;
-  --card-background-color: #1f0c1e;
-  --nav-background-color: #1f0c1e;
-  --nav-border-bottom-color: #fff;
+  --body-background-color: #2e2a2a;
+  --body-text-color: white;
+  --card-background-color: #2e2a2a;
+  --nav-background-color: #373333;
+  --nav-border-bottom-color: #8888;
 }
