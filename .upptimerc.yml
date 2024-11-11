@@ -43,7 +43,7 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: @$OWNER
+    - title: $OWNER
       href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
