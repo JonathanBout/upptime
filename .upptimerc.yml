@@ -39,7 +39,7 @@ status-website:
   logoUrl: https://jonathanbout.dev/icon-dark.png
   name: Status
   introTitle: ""
-  introMessage: This status page shows **real-time** statistics from a few websites I self-host. The status page itself is hosted using GitHub Actions and Pages, using a modified version of [upptime/upptime](https://github.com/upptime/upptime)
+  introMessage: ""
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
