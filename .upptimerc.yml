@@ -4,16 +4,16 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Portfolio (.com)
-    url: https://jonathanbout.com?changeLocale=true
+    url: https://jonathanbout.com?changeLocale=true # changeLocale=true to make sure we don't do any redirects
     maxResponseTime: 3000
   - name: Portfolio (.nl)
     url: https://jonathanbout.nl?changeLocale=true
     maxResponseTime: 3000
   - name: Portfolio Backend
-    url: https://jonathanbout.com/api/
+    url: https://jonathanbout.com/api/_health?simple=true # simple view is enough, we don't use all other data
     maxResponseTime: 3000
-    expectedStatusCodes:
-    - 404
+    __dangerous__body_degraded: degraded
+    __dangerous__body_down: unhealthy
   - name: Astronomy Picture Of the Day
     url: https://apod.jonathanbout.com
     maxResponseTime: 3000
@@ -43,6 +43,8 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: @$OWNER
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
