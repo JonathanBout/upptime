@@ -10,7 +10,7 @@ sites:
     url: https://jonathanbout.nl?changeLocale=true
     maxResponseTime: 3000
   - name: Portfolio Backend
-    url: https://jonathanbout.com/api/_health?simple=true # simple view is enough, we don't use all other data
+    url: https://jonathanbout.com/api/_health/first-party?simple=true # simple view is enough, we don't use all other data
     maxResponseTime: 3000
     __dangerous__body_degraded: degraded
     __dangerous__body_down: unhealthy
