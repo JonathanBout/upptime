@@ -4,82 +4,90 @@
     "url": "https://jonathanbout.com?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 507,
     "timeDay": 414,
     "timeWeek": 476,
     "timeMonth": 529,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 8
+    }
   },
   {
     "name": "Portfolio (.nl)",
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 426,
     "timeDay": 394,
     "timeWeek": 421,
     "timeMonth": 410,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 6
+    }
   },
   {
     "name": "Portfolio Backend",
     "url": "https://jonathanbout.com/api/_health/first-party?simple=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 342,
     "timeDay": 266,
     "timeWeek": 601,
     "timeMonth": 342,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 5
+    }
   },
   {
     "name": "Astronomy Picture Of the Day",
     "url": "https://apod.jonathanbout.com",
     "icon": "https://icons.duckduckgo.com/ip3/apod.jonathanbout.com.ico",
     "slug": "astronomy-picture-of-the-day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 788,
     "timeDay": 425,
     "timeWeek": 2402,
     "timeMonth": 1126,
     "timeYear": 788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 3
+    }
   },
   {
     "name": "Server01 Status",
     "url": "https://server01.jonathanbout.dev",
     "icon": "https://icons.duckduckgo.com/ip3/server01.jonathanbout.dev.ico",
     "slug": "server01-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 500,
@@ -87,16 +95,18 @@
     "timeWeek": 495,
     "timeMonth": 464,
     "timeYear": 500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 2
+    }
   },
   {
     "name": "Server02 Status",
     "url": "https://server02.jonathanbout.dev",
     "icon": "https://icons.duckduckgo.com/ip3/server02.jonathanbout.dev.ico",
     "slug": "server02-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 466,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   }
 ]
