@@ -4,19 +4,19 @@
     "url": "https://jonathanbout.com?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 507,
-    "timeDay": 414,
-    "timeWeek": 476,
-    "timeMonth": 529,
-    "timeYear": 507,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 505,
+    "timeDay": 407,
+    "timeWeek": 469,
+    "timeMonth": 525,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-11-12": 8
+      "2024-11-12": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 426,
-    "timeDay": 394,
-    "timeWeek": 421,
-    "timeMonth": 410,
-    "timeYear": 426,
+    "time": 425,
+    "timeDay": 387,
+    "timeWeek": 415,
+    "timeMonth": 408,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2024-11-12": 6
+      "2024-11-12": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://jonathanbout.com/api/_health/first-party?simple=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 342,
-    "timeDay": 266,
-    "timeWeek": 601,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 341,
+    "timeDay": 270,
+    "timeWeek": 581,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-11-12": 5
+      "2024-11-12": 11
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://apod.jonathanbout.com",
     "icon": "https://icons.duckduckgo.com/ip3/apod.jonathanbout.com.ico",
     "slug": "astronomy-picture-of-the-day",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 425,
-    "timeWeek": 2402,
-    "timeMonth": 1126,
-    "timeYear": 788,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 784,
+    "timeDay": 423,
+    "timeWeek": 2277,
+    "timeMonth": 1110,
+    "timeYear": 784,
     "dailyMinutesDown": {
-      "2024-11-12": 3
+      "2024-11-12": 9
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://server01.jonathanbout.dev",
     "icon": "https://icons.duckduckgo.com/ip3/server01.jonathanbout.dev.ico",
     "slug": "server01-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 500,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 499,
     "timeDay": 419,
-    "timeWeek": 495,
-    "timeMonth": 464,
-    "timeYear": 500,
+    "timeWeek": 490,
+    "timeMonth": 463,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2024-11-12": 2
+      "2024-11-12": 8
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://server02.jonathanbout.dev",
     "icon": "https://icons.duckduckgo.com/ip3/server02.jonathanbout.dev.ico",
     "slug": "server02-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 435,
-    "timeWeek": 466,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 448,
+    "timeDay": 434,
+    "timeWeek": 463,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
-      "2024-11-12": 0
+      "2024-11-12": 6
     }
   }
 ]
