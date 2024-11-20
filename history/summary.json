@@ -40,19 +40,19 @@
     "url": "https://jonathanbout.com/api/_health/first-party?simple=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 343,
-    "timeWeek": 179,
-    "timeMonth": 338,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "78.55%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.39%",
+    "time": 317,
+    "timeDay": 291,
+    "timeWeek": 180,
+    "timeMonth": 335,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-11-20": 0
+      "2024-11-20": 309
     }
   },
   {
