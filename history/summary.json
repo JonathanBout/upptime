@@ -40,18 +40,20 @@
     "url": "https://jonathanbout.com/api/_health/first-party?simple=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 568,
-    "timeWeek": 188,
-    "timeMonth": 343,
-    "timeYear": 324,
-    "dailyMinutesDown": {}
+    "time": 319,
+    "timeDay": 343,
+    "timeWeek": 179,
+    "timeMonth": 338,
+    "timeYear": 319,
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "Astronomy Picture Of the Day",
