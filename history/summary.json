@@ -60,18 +60,20 @@
     "url": "https://apod.jonathanbout.com",
     "icon": "https://icons.duckduckgo.com/ip3/apod.jonathanbout.com.ico",
     "slug": "astronomy-picture-of-the-day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 356,
-    "timeWeek": 409,
-    "timeMonth": 1130,
-    "timeYear": 744,
-    "dailyMinutesDown": {}
+    "time": 741,
+    "timeDay": 387,
+    "timeWeek": 410,
+    "timeMonth": 1113,
+    "timeYear": 741,
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   },
   {
     "name": "Server01 Status",
