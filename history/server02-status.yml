@@ -1,7 +1,7 @@
 url: https://server02.jonathanbout.dev
-status: up
-code: 200
-responseTime: 644
-lastUpdated: 2024-11-22T23:19:44.205Z
+status: degraded
+code: 403
+responseTime: 20931
+lastUpdated: 2024-11-23T13:46:09.461Z
 startTime: 2024-10-22T22:52:41.712Z
 generator: Upptime <https://github.com/upptime/upptime>
