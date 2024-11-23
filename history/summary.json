@@ -83,19 +83,19 @@
     "url": "https://server01.jonathanbout.dev",
     "icon": "https://icons.duckduckgo.com/ip3/server01.jonathanbout.dev.ico",
     "slug": "server01-status",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 10668,
-    "timeWeek": 3009,
-    "timeMonth": 950,
-    "timeYear": 697,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 694,
+    "timeDay": 7241,
+    "timeWeek": 2717,
+    "timeMonth": 937,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2024-11-23": 1
+      "2024-11-23": 8
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://server02.jonathanbout.dev",
     "icon": "https://icons.duckduckgo.com/ip3/server02.jonathanbout.dev.ico",
     "slug": "server02-status",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 926,
-    "timeDay": 10788,
-    "timeWeek": 3020,
-    "timeMonth": 952,
-    "timeYear": 926,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 913,
+    "timeDay": 7312,
+    "timeWeek": 2724,
+    "timeMonth": 938,
+    "timeYear": 913,
     "dailyMinutesDown": {
-      "2024-11-23": 0
+      "2024-11-23": 7
     }
   }
 ]
