@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
-    "timeDay": 409,
-    "timeWeek": 498,
-    "timeMonth": 453,
+    "timeDay": 413,
+    "timeWeek": 480,
+    "timeMonth": 455,
     "timeYear": 483,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 424,
-    "timeDay": 408,
-    "timeWeek": 474,
+    "time": 423,
+    "timeDay": 341,
+    "timeWeek": 448,
     "timeMonth": 431,
-    "timeYear": 424,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2024-11-22": 60
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 419,
-    "timeDay": 119,
-    "timeWeek": 364,
+    "uptimeYear": "99.65%",
+    "time": 416,
+    "timeDay": 107,
+    "timeWeek": 298,
     "timeMonth": 259,
-    "timeYear": 419,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2024-11-22": 58,
       "2024-11-20": 309
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
-    "time": 648,
-    "timeDay": 347,
-    "timeWeek": 444,
+    "time": 646,
+    "timeDay": 374,
+    "timeWeek": 421,
     "timeMonth": 403,
-    "timeYear": 648,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2024-12-06": 16,
       "2024-11-22": 143
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
-    "time": 787,
-    "timeDay": 483,
-    "timeWeek": 532,
+    "time": 785,
+    "timeDay": 403,
+    "timeWeek": 499,
     "timeMonth": 1126,
-    "timeYear": 787,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2024-11-29": 46
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
-    "time": 970,
-    "timeDay": 416,
-    "timeWeek": 509,
-    "timeMonth": 1120,
-    "timeYear": 970,
+    "time": 964,
+    "timeDay": 434,
+    "timeWeek": 491,
+    "timeMonth": 1119,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2024-11-29": 45
     }
