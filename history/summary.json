@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 346,
+    "time": 481,
+    "timeDay": 413,
     "timeWeek": 443,
     "timeMonth": 450,
-    "timeYear": 482,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 423,
-    "timeDay": 353,
-    "timeWeek": 418,
-    "timeMonth": 429,
+    "timeDay": 424,
+    "timeWeek": 420,
+    "timeMonth": 430,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2024-11-22": 60
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 409,
-    "timeDay": 102,
+    "time": 406,
+    "timeDay": 123,
     "timeWeek": 239,
     "timeMonth": 257,
-    "timeYear": 409,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2024-11-22": 58,
       "2024-11-20": 309
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
-    "time": 638,
-    "timeDay": 290,
-    "timeWeek": 402,
+    "time": 636,
+    "timeDay": 373,
+    "timeWeek": 405,
     "timeMonth": 400,
-    "timeYear": 638,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2024-12-06": 16,
       "2024-11-22": 143
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 776,
-    "timeDay": 504,
-    "timeWeek": 511,
-    "timeMonth": 500,
-    "timeYear": 776,
+    "time": 773,
+    "timeDay": 406,
+    "timeWeek": 500,
+    "timeMonth": 497,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2024-11-29": 46
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 938,
-    "timeDay": 401,
-    "timeWeek": 488,
-    "timeMonth": 478,
-    "timeYear": 938,
+    "time": 931,
+    "timeDay": 383,
+    "timeWeek": 484,
+    "timeMonth": 476,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2024-11-29": 45
     }
