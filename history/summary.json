@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 397,
-    "timeWeek": 461,
+    "time": 479,
+    "timeDay": 395,
+    "timeWeek": 467,
     "timeMonth": 463,
-    "timeYear": 480,
+    "timeYear": 479,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 448,
-    "timeDay": 355,
-    "timeWeek": 445,
+    "timeDay": 347,
+    "timeWeek": 437,
     "timeMonth": 540,
     "timeYear": 448,
     "dailyMinutesDown": {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.70%",
-    "time": 386,
-    "timeDay": 100,
+    "time": 384,
+    "timeDay": 103,
     "timeWeek": 299,
     "timeMonth": 272,
-    "timeYear": 386,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2025-01-08": 27,
       "2024-11-22": 58,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 618,
-    "timeDay": 311,
-    "timeWeek": 415,
-    "timeMonth": 415,
-    "timeYear": 618,
+    "time": 616,
+    "timeDay": 359,
+    "timeWeek": 418,
+    "timeMonth": 417,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2024-12-06": 16,
       "2024-11-22": 143
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 751,
-    "timeDay": 380,
-    "timeWeek": 485,
+    "time": 749,
+    "timeDay": 422,
+    "timeWeek": 486,
     "timeMonth": 505,
-    "timeYear": 751,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2024-11-29": 46
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 873,
-    "timeDay": 386,
-    "timeWeek": 484,
-    "timeMonth": 487,
-    "timeYear": 873,
+    "time": 869,
+    "timeDay": 450,
+    "timeWeek": 497,
+    "timeMonth": 489,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2024-11-29": 45
     }
