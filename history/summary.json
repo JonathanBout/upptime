@@ -22,10 +22,10 @@
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 447,
@@ -34,6 +34,7 @@
     "timeMonth": 448,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2025-02-25": 2,
       "2025-01-08": 25,
       "2024-11-22": 60
     }
@@ -43,11 +44,11 @@
     "url": "https://jonathanbout.com/api/_health/first-party?simple=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 349,
     "timeDay": 258,
@@ -55,7 +56,7 @@
     "timeMonth": 255,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-02-25": 14,
+      "2025-02-25": 0,
       "2025-01-08": 27,
       "2024-11-22": 58,
       "2024-11-20": 309
