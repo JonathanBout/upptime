@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 404,
-    "timeWeek": 425,
-    "timeMonth": 452,
+    "timeDay": 425,
+    "timeWeek": 428,
+    "timeMonth": 451,
     "timeYear": 472,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 445,
-    "timeDay": 368,
-    "timeWeek": 388,
-    "timeMonth": 438,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 437,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-02-25": 25,
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
     "time": 422,
-    "timeDay": 3400,
-    "timeWeek": 1036,
-    "timeMonth": 613,
+    "timeDay": 2639,
+    "timeWeek": 998,
+    "timeMonth": 607,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2025-02-25": 24,
@@ -73,55 +73,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 568,
-    "timeDay": 416,
-    "timeWeek": 371,
-    "timeMonth": 397,
-    "timeYear": 568,
+    "time": 567,
+    "timeDay": 417,
+    "timeWeek": 376,
+    "timeMonth": 398,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2024-12-06": 16,
       "2024-11-22": 143
-    }
-  },
-  {
-    "name": "Server01 Status",
-    "url": "https://server01.jonathanbout.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/server01.jonathanbout.dev.ico",
-    "slug": "server01-status",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 686,
-    "timeDay": 431,
-    "timeWeek": 404,
-    "timeMonth": 465,
-    "timeYear": 686,
-    "dailyMinutesDown": {
-      "2024-11-29": 46
-    }
-  },
-  {
-    "name": "Server02 Status",
-    "url": "https://server02.jonathanbout.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/server02.jonathanbout.dev.ico",
-    "slug": "server02-status",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 744,
-    "timeDay": 408,
-    "timeWeek": 422,
-    "timeMonth": 476,
-    "timeYear": 744,
-    "dailyMinutesDown": {
-      "2025-02-12": 1,
-      "2024-11-29": 45
     }
   }
 ]
