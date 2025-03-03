@@ -17,12 +17,6 @@ sites:
   - name: Astronomy Picture Of the Day
     url: https://apod.jonathanbout.com
     maxResponseTime: 3000
-  - name: Server01 Status
-    url: https://server01.jonathanbout.dev
-    maxResponseTime: 3000
-  - name: Server02 Status
-    url: https://server02.jonathanbout.dev
-    maxResponseTime: 3000
 
 delay: 2000 # wait two seconds between each request to prevent overloading the server
 
