@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 472,
-    "timeDay": 459,
-    "timeWeek": 463,
-    "timeMonth": 467,
-    "timeYear": 472,
+    "time": 473,
+    "timeDay": 527,
+    "timeWeek": 479,
+    "timeMonth": 471,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2025-03-10": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 534,
-    "timeDay": 415,
-    "timeWeek": 440,
-    "timeMonth": 1008,
+    "timeDay": 484,
+    "timeWeek": 454,
+    "timeMonth": 994,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-02-25": 25,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.80%",
-    "time": 414,
-    "timeDay": 364,
-    "timeWeek": 178,
-    "timeMonth": 616,
-    "timeYear": 414,
+    "time": 413,
+    "timeDay": 282,
+    "timeWeek": 180,
+    "timeMonth": 606,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2025-03-12": 31,
       "2025-02-25": 24,
@@ -77,13 +77,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 558,
-    "timeDay": 395,
-    "timeWeek": 449,
-    "timeMonth": 432,
+    "timeDay": 472,
+    "timeWeek": 461,
+    "timeMonth": 435,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2024-12-06": 16,
       "2024-11-22": 143
     }
+  },
+  {
+    "name": "Content Delivery Server",
+    "url": "https://static.jonathanbout.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/static.jonathanbout.dev.ico",
+    "slug": "content-delivery-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 643,
+    "timeDay": 643,
+    "timeWeek": 643,
+    "timeMonth": 643,
+    "timeYear": 643,
+    "dailyMinutesDown": {}
   }
 ]
