@@ -18,7 +18,7 @@ sites:
     url: https://apod.jonathanbout.com
     maxResponseTime: 3000
   - name: Content Delivery Server
-    url: https://static.jonathanbout.dev
+    url: https://static.jonathanbout.dev/_cdn/server/health
     maxResponseTime: 3000
 
 delay: 2000 # wait two seconds between each request to prevent overloading the server
