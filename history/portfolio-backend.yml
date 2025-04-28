@@ -1,7 +1,7 @@
 url: https://jonathanbout.com/api/_health/first-party?simple=true
-status: down
+status: degraded
 code: 503
-responseTime: 1188
-lastUpdated: 2025-04-28T11:11:02.411Z
+responseTime: 3477
+lastUpdated: 2025-04-28T11:55:44.262Z
 startTime: 2024-10-16T18:25:49.024Z
 generator: Upptime <https://github.com/upptime/upptime>
