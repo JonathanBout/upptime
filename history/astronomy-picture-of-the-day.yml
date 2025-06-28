@@ -1,7 +1,7 @@
 url: https://apod.jonathanbout.com
-status: degraded
-code: 523
-responseTime: 3294
-lastUpdated: 2025-06-28T09:36:43.546Z
+status: up
+code: 200
+responseTime: 489
+lastUpdated: 2025-06-28T09:44:46.840Z
 startTime: 2024-09-05T10:19:55.559Z
 generator: Upptime <https://github.com/upptime/upptime>
