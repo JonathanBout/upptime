@@ -1,7 +1,7 @@
 url: https://jonathanbout.com?changeLocale=true
-status: up
-code: 200
-responseTime: 498
-lastUpdated: 2025-06-30T18:56:43.189Z
+status: degraded
+code: 523
+responseTime: 14525
+lastUpdated: 2025-06-30T22:04:19.705Z
 startTime: 2024-09-14T17:23:29.577Z
 generator: Upptime <https://github.com/upptime/upptime>
