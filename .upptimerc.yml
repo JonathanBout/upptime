@@ -21,7 +21,7 @@ sites:
     url: https://static.jonathanbout.dev/_cdn/server/health
     maxResponseTime: 3000
 
-delay: 2000 # wait two seconds between each request to prevent overloading the server
+delay: 10000 # wait ten seconds between each request to prevent overloading the server
 
 assignees:
   - JonathanBout
@@ -43,5 +43,5 @@ status-website:
     - title: "@JonathanBout"
       href: https://github.com/JonathanBout
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  uptime: "*/10 * * * *"
