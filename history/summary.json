@@ -111,17 +111,19 @@
     "url": "https://static.jonathanbout.dev/_cdn/server/health",
     "icon": "https://icons.duckduckgo.com/ip3/static.jonathanbout.dev.ico",
     "slug": "content-delivery-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 113,
-    "timeWeek": 153,
-    "timeMonth": 194,
-    "timeYear": 202,
-    "dailyMinutesDown": {}
+    "time": 204,
+    "timeDay": 356,
+    "timeWeek": 209,
+    "timeMonth": 207,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   }
 ]
