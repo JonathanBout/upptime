@@ -111,9 +111,9 @@
     "url": "https://static.jonathanbout.dev/_cdn/server/health",
     "icon": "https://icons.duckduckgo.com/ip3/static.jonathanbout.dev.ico",
     "slug": "content-delivery-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -123,6 +123,7 @@
     "timeMonth": 977,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2026-02-10": 0,
       "2026-02-02": 23,
       "2025-11-18": 149
     }
