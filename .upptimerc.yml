@@ -21,7 +21,7 @@ sites:
     url: https://static.jonathanbout.dev/_cdn/server/health
     maxResponseTime: 3000
 
-delay: 2000 # wait ten seconds between each request to prevent overloading the server
+delay: 2000 # wait two seconds between each request to prevent overloading the server
 
 assignees:
   - JonathanBout
