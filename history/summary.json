@@ -4,17 +4,17 @@
     "url": "https://jonathanbout.com?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.84%",
-    "time": 1181,
-    "timeDay": 604,
-    "timeWeek": 445,
-    "timeMonth": 576,
-    "timeYear": 1361,
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.83%",
+    "time": 1186,
+    "timeDay": 1906,
+    "timeWeek": 790,
+    "timeMonth": 656,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-07-05": 27,
       "2025-07-14": 16,
@@ -26,7 +26,8 @@
       "2026-04-03": 41,
       "2026-05-06": 35,
       "2026-06-02": 335,
-      "2026-06-01": 25
+      "2026-06-01": 25,
+      "2026-06-18": 2
     }
   },
   {
@@ -34,17 +35,17 @@
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 992,
-    "timeDay": 526,
-    "timeWeek": 424,
-    "timeMonth": 531,
-    "timeYear": 1095,
+    "time": 1001,
+    "timeDay": 2971,
+    "timeWeek": 1048,
+    "timeMonth": 684,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-07-14": 16,
       "2025-07-16": 171,
@@ -57,7 +58,8 @@
       "2026-04-03": 41,
       "2026-04-16": 40,
       "2026-04-30": 75,
-      "2026-05-06": 35
+      "2026-05-06": 35,
+      "2026-06-18": 1
     }
   },
   {
