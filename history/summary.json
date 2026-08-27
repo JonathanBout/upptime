@@ -4,17 +4,17 @@
     "url": "https://jonathanbout.com?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1172,
-    "timeDay": 389,
-    "timeWeek": 469,
-    "timeMonth": 490,
-    "timeYear": 642,
+    "timeDay": 226,
+    "timeWeek": 419,
+    "timeMonth": 477,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-11-18": 141,
       "2026-02-24": 25,
@@ -23,7 +23,8 @@
       "2026-05-06": 35,
       "2026-06-02": 335,
       "2026-06-01": 25,
-      "2026-06-18": 83
+      "2026-06-18": 83,
+      "2026-08-27": 1
     }
   },
   {
@@ -31,17 +32,17 @@
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 990,
-    "timeDay": 338,
-    "timeWeek": 436,
-    "timeMonth": 471,
-    "timeYear": 747,
+    "timeDay": 207,
+    "timeWeek": 391,
+    "timeMonth": 459,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2026-01-29": 16,
@@ -53,7 +54,8 @@
       "2026-04-16": 40,
       "2026-04-30": 75,
       "2026-05-06": 35,
-      "2026-06-18": 83
+      "2026-06-18": 83,
+      "2026-08-27": 1
     }
   },
   {
@@ -61,16 +63,16 @@
     "url": "https://jonathanbout.com/api/_health/first-party?simple=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 546,
-    "timeDay": 331,
-    "timeWeek": 426,
-    "timeMonth": 398,
+    "time": 545,
+    "timeDay": 193,
+    "timeWeek": 380,
+    "timeMonth": 387,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-08-31": 41,
@@ -81,7 +83,8 @@
       "2026-04-13": 28,
       "2026-04-16": 40,
       "2026-05-06": 35,
-      "2026-05-16": 53
+      "2026-05-16": 53,
+      "2026-08-27": 1
     }
   },
   {
@@ -89,17 +92,17 @@
     "url": "https://apod.jonathanbout.com",
     "icon": "https://icons.duckduckgo.com/ip3/apod.jonathanbout.com.ico",
     "slug": "astronomy-picture-of-the-day",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 858,
-    "timeDay": 334,
-    "timeWeek": 486,
-    "timeMonth": 484,
-    "timeYear": 618,
+    "time": 857,
+    "timeDay": 196,
+    "timeWeek": 432,
+    "timeMonth": 471,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-11-18": 108,
       "2026-02-24": 55,
@@ -107,7 +110,8 @@
       "2026-04-03": 41,
       "2026-04-16": 81,
       "2026-04-30": 43,
-      "2026-05-06": 35
+      "2026-05-06": 35,
+      "2026-08-27": 0
     }
   },
   {
@@ -115,24 +119,25 @@
     "url": "https://static.jonathanbout.dev/_cdn/server/health",
     "icon": "https://icons.duckduckgo.com/ip3/static.jonathanbout.dev.ico",
     "slug": "content-delivery-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 270,
-    "timeDay": 250,
-    "timeWeek": 203,
-    "timeMonth": 199,
-    "timeYear": 299,
+    "timeDay": 158,
+    "timeWeek": 186,
+    "timeMonth": 194,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2026-02-02": 23,
       "2026-02-10": 21,
       "2026-02-24": 27,
       "2026-06-02": 335,
-      "2026-06-01": 24
+      "2026-06-01": 24,
+      "2026-08-27": 0
     }
   }
 ]
