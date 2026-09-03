@@ -1,7 +1,7 @@
 url: https://jonathanbout.com/api/_health/first-party?simple=true
-status: up
-code: 200
-responseTime: 507
-lastUpdated: 2026-09-03T00:59:54.686Z
+status: down
+code: 502
+responseTime: 181
+lastUpdated: 2026-09-03T09:14:46.580Z
 startTime: 2024-10-16T18:25:49.024Z
 generator: Upptime <https://github.com/upptime/upptime>
