@@ -4,17 +4,17 @@
     "url": "https://jonathanbout.com?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.67%",
-    "time": 746,
-    "timeDay": 546,
-    "timeWeek": 510,
-    "timeMonth": 539,
-    "timeYear": 630,
+    "time": 806,
+    "timeDay": 15367,
+    "timeWeek": 4220,
+    "timeMonth": 1496,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2025-11-18": 141,
       "2026-02-24": 25,
@@ -26,7 +26,8 @@
       "2026-06-18": 83,
       "2026-08-28": 35,
       "2026-08-27": 508,
-      "2026-09-03": 480
+      "2026-09-03": 480,
+      "2026-10-22": 16
     }
   },
   {
@@ -34,17 +35,17 @@
     "url": "https://jonathanbout.nl?changeLocale=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.nl.ico",
     "slug": "portfolio-nl",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.71%",
-    "time": 978,
-    "timeDay": 486,
-    "timeWeek": 454,
-    "timeMonth": 496,
-    "timeYear": 732,
+    "time": 1028,
+    "timeDay": 15305,
+    "timeWeek": 4163,
+    "timeMonth": 1451,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2026-01-29": 16,
@@ -59,7 +60,8 @@
       "2026-06-18": 83,
       "2026-08-28": 35,
       "2026-08-27": 508,
-      "2026-09-03": 480
+      "2026-09-03": 480,
+      "2026-10-22": 11
     }
   },
   {
@@ -67,13 +69,13 @@
     "url": "https://jonathanbout.com/api/_health/first-party?simple=true",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanbout.com.ico",
     "slug": "portfolio-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "97.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "96.18%",
-    "time": 504,
+    "time": 505,
     "timeDay": 500,
     "timeWeek": 441,
     "timeMonth": 426,
@@ -103,7 +105,8 @@
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
-      "2026-09-04": 143
+      "2026-09-04": 143,
+      "2026-10-22": 4
     }
   },
   {
@@ -111,17 +114,17 @@
     "url": "https://apod.jonathanbout.com",
     "icon": "https://icons.duckduckgo.com/ip3/apod.jonathanbout.com.ico",
     "slug": "astronomy-picture-of-the-day",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 718,
-    "timeDay": 518,
-    "timeWeek": 498,
-    "timeMonth": 489,
-    "timeYear": 597,
+    "time": 778,
+    "timeDay": 15624,
+    "timeWeek": 4277,
+    "timeMonth": 1464,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2025-11-18": 108,
       "2026-02-24": 55,
@@ -132,7 +135,8 @@
       "2026-05-06": 35,
       "2026-08-28": 35,
       "2026-08-27": 507,
-      "2026-09-03": 479
+      "2026-09-03": 479,
+      "2026-10-22": 0
     }
   },
   {
